@@ -6,7 +6,7 @@
 | No |Date|               Topic               |  Presenter  |    Link   |
 |----|----------------|------------------------------------|-------------|-----------|
 | 01 |2024-01-02|Kitching|마재성|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/1%EC%9B%94/Kitching.pptx)|
-| 02 |2024-01-02||김온지|[link]|
+| 02 |2024-01-02|Java Reflection|김온지|[link](./1월/Java%20Reflection.pdf)|
 | 03 |2024-01-16||강혜인|[link]|
 | 04 |2024-01-16||장성진|[link]|
 | 05 |2024-01-16||김온지|[link]|
