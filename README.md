@@ -18,4 +18,4 @@
 | 11 |2024-01-30| |장성진|[link]|
 | 13 |2024-01-30| |서준혁|[link]|
 | 14 |2024-02-06|여행 프로젝트 진행기(3) |김온지|[link](2월/여행%20서비스%20진행기(3).pdf)|
-| 14 |2024-02-16|React Hooks (3)|마재성|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/2%EC%9B%94/React%20Hooks(3).pptx)|
+| 14 |2024-02-06|React Hooks (3)|마재성|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/2%EC%9B%94/React%20Hooks(3).pptx)|
