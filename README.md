@@ -17,3 +17,4 @@
 | 10 |2024-01-30| |강혜인|[live]|
 | 11 |2024-01-30| |장성진|[link]|
 | 13 |2024-01-30| |서준혁|[link]|
+| 14 |2024-02-16|React Hooks (3)|마재성|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/2%EC%9B%94/React%20Hooks(3).pptx)|
