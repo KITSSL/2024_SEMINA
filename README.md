@@ -16,7 +16,8 @@
 | 09 |2024-01-23|여행 프로젝트 진행기(2) |김온지|[link](./1월/여행%20프로젝트%20진행기(2).pdf)|
 | 10 |2024-01-30| |강혜인|[live]|
 | 11 |2024-01-30| |장성진|[link]|
-| 13 |2024-01-30| |서준혁|[link]|
-| 14 |2024-02-06|여행 프로젝트 진행기(3) |김온지|[link](2월/여행%20서비스%20진행기(3).pdf)|
-| 15 |2024-02-06|React Hooks (3)|마재성|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/2%EC%9B%94/React%20Hooks(3).pptx)|
-| 16 |2024-02-06|즐거운 PS 생활|윤태영|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/2%EC%9B%94/%EC%A6%90%EA%B1%B0%EC%9A%B4%20PS%20%EC%83%9D%ED%99%9C.pdf)|
+| 12 |2024-01-30| |서준혁|[link]|
+| 13 |2024-02-06|여행 프로젝트 진행기(3) |김온지|[link](2월/여행%20서비스%20진행기(3).pdf)|
+| 14 |2024-02-06|React Hooks (3)|마재성|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/2%EC%9B%94/React%20Hooks(3).pptx)|
+| 15 |2024-02-06|즐거운 PS 생활|윤태영|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/2%EC%9B%94/%EC%A6%90%EA%B1%B0%EC%9A%B4%20PS%20%EC%83%9D%ED%99%9C.pdf)|
+| 16 |2024-02-27|국가권력급 암기 프로그램|윤태영|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/2%EC%9B%94/%EA%B5%AD%EA%B0%80%EA%B6%8C%EB%A0%A5%EA%B8%89%20%EC%95%94%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.pdf)|
