@@ -7,7 +7,7 @@
 |----|----------------|------------------------------------|-------------|-----------|
 | 01 |2024-01-02|Kitching|마재성|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/1%EC%9B%94/Kitching.pptx)|
 | 02 |2024-01-02|Java Reflection|김온지|[link](./1월/Java%20Reflection.pdf)|
-| 03 |2024-01-16| |강혜인|[link]|
+| 03 |2024-01-16|SSL에서 보안으로 살아남기 - 번외편2 |강혜인|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/1%EC%9B%94/SSL%EC%97%90%EC%84%9C%20%EB%B3%B4%EC%95%88%EC%9C%BC%EB%A1%9C%20%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0%20-%20%EB%B2%88%EC%99%B8%ED%8E%B82.pptx)
 | 04 |2024-01-16| |장성진|[link]|
 | 05 |2024-01-16|여행 프로젝트 진행기(1)|김온지|[link](./1월/travel%20project%201.pdf)|
 | 06 |2024-01-16|Zoom Attendance Checker|박준수|[link](https://github.com/KITSSL/2024_SEMINA/blob/aafcf167485a421cb221ce40e75ede8658a51871/1%EC%9B%94/zoom-attendance.pdf)|
