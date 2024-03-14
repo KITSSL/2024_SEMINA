@@ -23,4 +23,4 @@
 | 16 |2024-02-27|국가권력급 암기 프로그램|윤태영|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/2%EC%9B%94/%EA%B5%AD%EA%B0%80%EA%B6%8C%EB%A0%A5%EA%B8%89%20%EC%95%94%EA%B8%B0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8.pdf)|
 | 17 |2024-03-13|DNS|박연종|[link](https://github.com/KITSSL/2024_SEMINA/blob/1d196d3088e2e882fe4084b87ba746a155679c2f/3%EC%9B%94/20240313_DNS.pdf)|
 | 18 |2024-03-13|socket.io|마재성|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/3%EC%9B%94/socket.io.pptx)|
-| 19 |2024-03-13||이근탁|[live]|
+| 19 |2024-03-13|After BoB|이근탁|[live]|
