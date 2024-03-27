@@ -24,3 +24,6 @@
 | 17 |2024-03-13|DNS|박연종|[link](https://github.com/KITSSL/2024_SEMINA/blob/1d196d3088e2e882fe4084b87ba746a155679c2f/3%EC%9B%94/20240313_DNS.pdf)|
 | 18 |2024-03-13|socket.io|마재성|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/3%EC%9B%94/socket.io.pptx)|
 | 19 |2024-03-13|After BoB|이근탁|[live]|
+| 20 |2024-03-27|Line Segment Intersection|정운학|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/3%EC%9B%94/Line%20Segment%20Intersection.pptx)
+| 21 |2024-03-27|Deque(이)란 무엇인가|윤태영|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/3%EC%9B%94/Deque(%EC%9D%B4)%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.pdf)
+| 22 |2024-03-27| |김온지|[link]
