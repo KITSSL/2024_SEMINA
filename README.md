@@ -27,6 +27,6 @@
 | 20 |2024-03-27|Line Segment Intersection|정운학|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/3%EC%9B%94/Line%20Segment%20Intersection.pptx)
 | 21 |2024-03-27|Deque(이)란 무엇인가|윤태영|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/3%EC%9B%94/Deque(%EC%9D%B4)%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.pdf)
 | 22 |2024-03-27| Postgresql MVCC와 조회수 로직 개선 방향|김온지|[link](3월/mvcc.pdf)
-| 23 |2024-04-02| |이근탁|[link]|
+| 23 |2024-04-02| 인스턴트 메시지 아티팩트 분석(1) + ...?? |이근탁|[link]|
 | 24 |2024-04-02| |강혜인|[link]|
 | 24 |2024-04-02| |장성진|[link]|
