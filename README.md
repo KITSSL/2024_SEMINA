@@ -26,4 +26,4 @@
 | 19 |2024-03-13|After BoB|이근탁|[live]|
 | 20 |2024-03-27|Line Segment Intersection|정운학|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/3%EC%9B%94/Line%20Segment%20Intersection.pptx)
 | 21 |2024-03-27|Deque(이)란 무엇인가|윤태영|[link](https://github.com/KITSSL/2024_SEMINA/blob/main/3%EC%9B%94/Deque(%EC%9D%B4)%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.pdf)
-| 22 |2024-03-27| |김온지|[link]
+| 22 |2024-03-27| Postgresql MVCC와 조회수 로직 개선 방향|김온지|[link](3월/mvcc.pdf)
