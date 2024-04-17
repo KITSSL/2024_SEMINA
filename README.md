@@ -32,3 +32,4 @@
 | 25 | 2024-04-03 | 인스턴트 메시지 아티팩트 분석(1) + ...?? | 이근탁 | [link] |
 | 26 | 2024-04-03 | SQL Injection(1) | 강혜인 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/4%EC%9B%94/20240403_%EC%84%B8%EB%AF%B8%EB%82%98.pptx) |
 | 27 | 2024-04-03 | Regression | 장성진 | [link](./4%EC%9B%94/240403_%EC%84%B8%EB%AF%B8%EB%82%98.pptx) |
+| 28 | 2024-04-17 | HTTP 커넥션 관리 | 박연종 | [link](./4월/20240417-HTTP_커넥션_관리.pdf) |
