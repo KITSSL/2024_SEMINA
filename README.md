@@ -37,4 +37,4 @@
 | 30 | 2024-05-01 | Session Messenger 아티팩트 분석 | 이근탁 | [live]()|
 | 31 | 2024-05-01 |  | 김온지 | [link]()|
 | 32 | 2024-05-01 |  | 정운학 | [link]()|
-| 33 | 2024-05-01 |  | 윤태영 | [link]()|
+| 33 | 2024-05-01 | 연구실 안전교육 자동화 프로젝트 (眞) | 윤태영 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/5%EC%9B%94/%EC%97%B0%EA%B5%AC%EC%8B%A4%20%EC%95%88%EC%A0%84%EA%B5%90%EC%9C%A1%20%EC%9E%90%EB%8F%99%ED%99%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20(%E7%9C%9E).pdf)|
