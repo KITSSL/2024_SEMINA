@@ -36,7 +36,7 @@
 | 29 | 2024-04-17 | Critical Rendering Path | 마재성 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/4%EC%9B%94/CRP.pptx)|
 | 30 | 2024-05-01 | Session Messenger 아티팩트 분석 | 이근탁 | [live]()|
 | 31 | 2024-05-01 | Lombok의 작동원리 | 김온지 | [link](./5월/Lombok의%20작동원리.pdf)|
-| 32 | 2024-05-01 |  | 정운학 | [link]()|
+| 32 | 2024-05-01 |  Phong Shader | 정운학 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/5%EC%9B%94/Phong%20Shader.pptx)|
 | 33 | 2024-05-01 | 연구실 안전교육 자동화 프로젝트 (眞) | 윤태영 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/5%EC%9B%94/%EC%97%B0%EA%B5%AC%EC%8B%A4%20%EC%95%88%EC%A0%84%EA%B5%90%EC%9C%A1%20%EC%9E%90%EB%8F%99%ED%99%94%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20(%E7%9C%9E).pdf)|
 | 34 | 2024-05-08 | SQLI 워게임 Write UP | 강혜인 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/5%EC%9B%94/20240508_%EC%84%B8%EB%AF%B8%EB%82%98.pptx) |
 | 35 | 2024-05-08 | 논문 리뷰 | 장성진 | [link](./5월/240508_세미나.pptx) |
