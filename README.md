@@ -41,4 +41,4 @@
 | 34 | 2024-05-08 | SQLI 워게임 Write UP | 강혜인 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/5%EC%9B%94/20240508_%EC%84%B8%EB%AF%B8%EB%82%98.pptx) |
 | 35 | 2024-05-08 | 논문 리뷰 | 장성진 | [link](./5월/240508_세미나.pptx) |
 | 36 | 2024-05-22 | 스프링 빈과 의존 관계 주입 | 박연종 | [link](./5월/스프링%20빈과%20의존%20관계%20주입.pdf) |
-
+| 37 | 2024-05-29 | C++ Template <1> | 정운학 | [link](./5월/c++%20template%201.pptx) |
