@@ -49,5 +49,5 @@
 | 42 | 2024-06-05 | | 장성진 | [link] |
 | 43 | 2024-06-05 | Gmail GoogleChat Artifact | 이근탁 | [live] |
 | 44 | 2024-06-12 | String in Java | 박연종 | [link](./6월/String%20in%20Java.pdf) |
-| 45 | 2024-06-12 | | 마재성 | [link] |
+| 45 | 2024-06-12 | CSS-Grid| 마재성 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/6%EC%9B%94/CSS-Grid.pptx) |
 | 46 | 2024-06-12 | Element Artifact | 이근탁 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/6%EC%9B%94/20240612%20%EC%9D%B4%EA%B7%BC%ED%83%81%20Element%20Artifact.pdf) |
