@@ -44,7 +44,7 @@
 | 37 | 2024-05-22 | CSS Flex | 마재성 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/5%EC%9B%94/CSS-FLEX.pptx) |
 | 38 | 2024-05-29 | C++ Template <1> | 정운학 | [link](./5월/c++%20template%201.pptx) |
 | 39 | 2024-05-29 | Supabase with SD4LE | 윤태영 | [link](./5월/Supabase%20with%20SD4LE.pdf) |
-| 40 | 2024-05-29 | | 김온지 | [link] |
+| 40 | 2024-05-29 | Apache Kafka | 김온지 | [link](./5월/Apache%20Kafka.pdf) |
 | 41 | 2024-06-05 | | 강혜인 | [link] |
 | 42 | 2024-06-05 | | 장성진 | [link] |
 | 43 | 2024-06-05 | Gmail GoogleChat Artifact | 이근탁 | [live] |
