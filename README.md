@@ -53,3 +53,5 @@
 | 46 | 2024-06-12 | Element Artifact | 이근탁 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/6%EC%9B%94/20240612%20%EC%9D%B4%EA%B7%BC%ED%83%81%20Element%20Artifact.pdf) |
 | 47 | 2024-07-03 | Hadoop 에코시스템 개요, 구축기 | 김온지 | [link](./7월/Hadoop%20에코시스템%20개요,%20구축기.pdf) |
 | 48 | 2024-07-03 | Dynamic Heap Array Implementation | 정운학 | [link](./7월/Dynamic%20Array%20Heap%20Implementation.pptx) |
+| 49 | 2024-07-10 | CGI, Servlet, JSP | 박연종 | [link](./7월/CGI%2C%20Servlet%2C%20JSP.pdf) |
+| 50 | 2024-07-10 |  | 장성진 | [link] |
