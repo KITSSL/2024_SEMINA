@@ -55,3 +55,10 @@
 | 48 | 2024-07-03 | Dynamic Heap Array Implementation | 정운학 | [link](./7월/Dynamic%20Array%20Heap%20Implementation.pptx) |
 | 49 | 2024-07-10 | CGI, Servlet, JSP | 박연종 | [link](./7월/CGI%2C%20Servlet%2C%20JSP.pdf) |
 | 50 | 2024-07-10 |  | 장성진 | [link] |
+| 51 | 2024-07-17 | TypeScript (1) | 마재성 | [link](https://github.com/KITSSL/2024_SEMINA/commit/d6a88bb37d8a0331bbd848653ee2978a07500028) |
+| 52 | 2024-07-17 |  | 강혜인 | [link] |
+| 53 | 2024-07-17 |  | 이근탁 | [link] |
+| 54 | 2024-07-24 |  | 김온지 | [link] |
+| 55 | 2024-07-24 |  | 정운학 | [link] |
+
+
