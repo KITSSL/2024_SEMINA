@@ -64,7 +64,7 @@
 | 58 | 2024-08-07 |  | 마재성 | [link] |
 | 59 | 2024-08-07 | 영속성 컨텍스트와 엔티티 생명 주기 | 박연종 | [link](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/KITSSL/2024_SEMINA/main/8%EC%9B%94/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80%20%EC%97%94%ED%8B%B0%ED%8B%B0%20%EC%83%9D%EB%AA%85%20%EC%A3%BC%EA%B8%B0.pptx) |
 | 60 | 2024-08-21 | Game Engine 제작기 2 | 정운학 | [link](./8월/Game%20Engine%20%EC%A0%9C%EC%9E%91%EA%B8%B0%202.pptx) |
-| 61 | 2024-08-21 |  | 김온지 | [link] |
+| 61 | 2024-08-21 | 기술면접 오답노트 | 김온지 | [link](./8월/기술면접%20오답노트.pdf) |
 | 62 | 2024-09-04 |  | 강혜인 | [link] |
 | 63 | 2024-09-04 |  | 윤태영 | [link] |
 | 64 | 2024-09-11 |  | 마재성 | [link] |
