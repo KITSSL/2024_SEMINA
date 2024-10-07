@@ -57,7 +57,7 @@
 | 50 | 2024-07-10 |  | 장성진 | [link] |
 | 51 | 2024-07-17 | TypeScript (1) | 마재성 | [link](https://github.com/KITSSL/2024_SEMINA/commit/d6a88bb37d8a0331bbd848653ee2978a07500028) |
 | 52 | 2024-07-17 | ISMS/ISMS-P | 강혜인 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/7%EC%9B%94/20240717_%EC%84%B8%EB%AF%B8%EB%82%98.pdf) |
-| 54 | 2024-07-24 |  | 김온지 | [link] |
+| 54 | 2024-07-24 | Apache Zeppelin 기여 과정 | 김온지 | [link](./7월/Apache%20Zeppelin%20기여%20과정.pdf) |
 | 55 | 2024-07-24 | Game Engine 제작기 1 | 정운학 | [link](./7월/Game%20Engine%20제작기%201.pptx) |
 | 56 | 2024-07-31 |  | 강혜인 | [link] |
 | 57 | 2024-07-31 |  | 장성진 | [link] |
