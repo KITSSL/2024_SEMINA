@@ -61,13 +61,13 @@
 | 55 | 2024-07-24 | Game Engine 제작기 1 | 정운학 | [link](./7월/Game%20Engine%20제작기%201.pptx) |
 | 56 | 2024-07-31 |  | 강혜인 | [link] |
 | 57 | 2024-07-31 |  | 장성진 | [link] |
-| 58 | 2024-08-07 |  | 마재성 | [link] |
+| 58 | 2024-08-07 | TypeScript (2) | 마재성 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/8%EC%9B%94/Typescript%20-%202.pptx) |
 | 59 | 2024-08-07 | 영속성 컨텍스트와 엔티티 생명 주기 | 박연종 | [link](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/KITSSL/2024_SEMINA/main/8%EC%9B%94/%EC%98%81%EC%86%8D%EC%84%B1%20%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80%20%EC%97%94%ED%8B%B0%ED%8B%B0%20%EC%83%9D%EB%AA%85%20%EC%A3%BC%EA%B8%B0.pptx) |
 | 60 | 2024-08-21 | Game Engine 제작기 2 | 정운학 | [link](./8월/Game%20Engine%20%EC%A0%9C%EC%9E%91%EA%B8%B0%202.pptx) |
 | 61 | 2024-08-21 | 기술면접 오답노트 | 김온지 | [link](./8월/기술면접%20오답노트.pdf) |
 | 62 | 2024-09-04 |  | 강혜인 | [link] |
 | 63 | 2024-09-04 | (여름방학, 나) + (와! 수강신청!) | 윤태영 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/9%EC%9B%94/(%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%2C%20%EB%82%98)%20%2B%20(%EC%99%80!%20%EC%88%98%EA%B0%95%EC%8B%A0%EC%B2%AD!).pdf) |
-| 64 | 2024-09-11 |  | 마재성 | [link] |
+| 64 | 2024-09-11 | TypeScript (3) | 마재성 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/9%EC%9B%94/Typescript%20-%203.pptx) |
 | 65 | 2024-09-11 | Kotlin 함수와 람다식 | 박연종 | [link](./9월/Kotlin%20함수와%20람다식.pdf) |
 | 66 | 2024-09-25 |  | 정운학 | [link] |
 | 67 | 2024-09-25 | MySql의 트랜잭션, 락, 인덱스, 격리수준 | 김온지 | [link](./9월/MySql의%20트랜잭션,%20락,%20인덱스,%20격리수준.pdf) |
