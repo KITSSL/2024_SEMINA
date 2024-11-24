@@ -83,5 +83,5 @@
 | 77 | 2024-11-06 |  | 윤태영 | [link] |
 | 78 | 2024-11-06 |  | 이근탁 | [link] |
 | 79 | 2024-11-20 |  | 마재성 | [link] |
-| 80 | 2024-11-20 | JVM Class Loading | 이근탁 | [link](./11월/JVM%20Class%20Loading.pdf) |
+| 80 | 2024-11-20 | JVM Class Loading | 박연종 | [link](./11월/JVM%20Class%20Loading.pdf) |
 | 81 | 2024-11-20 |  | 이근탁 | [link] |
