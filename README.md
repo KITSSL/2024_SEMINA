@@ -69,7 +69,7 @@
 | 63 | 2024-09-04 | (여름방학, 나) + (와! 수강신청!) | 윤태영 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/9%EC%9B%94/(%EC%97%AC%EB%A6%84%EB%B0%A9%ED%95%99%2C%20%EB%82%98)%20%2B%20(%EC%99%80!%20%EC%88%98%EA%B0%95%EC%8B%A0%EC%B2%AD!).pdf) |
 | 64 | 2024-09-11 | TypeScript (3) | 마재성 | [link](https://github.com/KITSSL/2024_SEMINA/blob/main/9%EC%9B%94/Typescript%20-%203.pptx) |
 | 65 | 2024-09-11 | Kotlin 함수와 람다식 | 박연종 | [link](./9월/Kotlin%20함수와%20람다식.pdf) |
-| 66 | 2024-09-25 |  | 정운학 | [link] |
+| 66 | 2024-09-25 | Game Engine 제작기 3 | 정운학 | [link](./9월/Game%20Engine%20제작기%203.pptx) |
 | 67 | 2024-09-25 | MySql의 트랜잭션, 락, 인덱스, 격리수준 | 김온지 | [link](./9월/MySql의%20트랜잭션,%20락,%20인덱스,%20격리수준.pdf) |
 | 68 | 2024-09-25 |  | 이근탁 | [link] |
 | 69 | 2024-10-02 |  | 장성진 | [link] |
